@@ -1,6 +1,7 @@
 # Week-3
 Cross Site Scripting
-Cybersecurity WEEK # - jennatrunnelle
+
+Cybersecurity WEEK # 3 jennatrunnelle
 
 Time spent: 6 hours spent in total
 
@@ -11,17 +12,25 @@ The following required functionality is completed:
 [ x] Required reading:
 
 [ x] Sanitizing outgoing data
+
 [ x] Cross-Site Scripting (XSS)
+
 [ x] Attack: Clickjacking
 
 [ x] Complete 4 Challenges:
 
 [ x] Cross Site Scripting
+
 [ x]Cross Site Scripting 1
+
 [ x]Cross Site Scripting 2
+
 [ x]Cross Site Scripting 3
+
 [ x]Cross Site Scripting 4
+
 [  ]Cross Site Scripting 5
+
 [  ]Cross Site Scripting 6
 
 
@@ -29,7 +38,7 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-http://i.imgur.com/DTS4crJ.gif
+http://imgur.com/DTS4crJ
 
 GIF created with LiceCap.
 
