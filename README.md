@@ -17,7 +17,7 @@ The following required functionality is completed:
 
 [ x] Attack: Clickjacking
 
-[ x] Complete 4 Challenges:
+Complete 4 Challenges:
 
 [ x] Cross Site Scripting
 
